@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laboratorio_2</string>
+    <string name="fotogra">Fotografía</string>
+    <string name="publici">Muchas fotografías para ver</string>
+    <string name="cielo">El cielo</string>
+    <string name="muchas">Muchas imagenes</string>
+    <string name="mialbum">Mi álbum</string>
+    <string name="n_fotos">28 fotografias</string>
+    <string name="fotografia11">Fotografia 1</string>
+    <string name="fotografia2">Fotografia 2</string>
+    <string name="fotografia3">Fotografia 3</string>
+</resources>
